@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "first version",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triplesrvs/Dashboard.git"
+  },
+  "keywords": [
+    "dash"
+  ],
+  "author": "Sanjeev Shanakr Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triplesrvs/Dashboard/issues"
+  },
+  "homepage": "https://github.com/triplesrvs/Dashboard#readme"
+}
